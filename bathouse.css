@@ -1,0 +1,14 @@
+body{
+    font-family: 'Roboto Mono';
+    background-color: black;
+}
+
+.item a{
+    color: white
+    
+}
+
+input{
+    width: 250px;
+    height: 3.5rem;
+}
